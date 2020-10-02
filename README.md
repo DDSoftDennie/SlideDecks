@@ -1,5 +1,5 @@
 # SlideDecks
 .. See above.
-## BLog: https://accessibledreams.net
+## Blog: https://accessibledreams.net
 # #DreamingIsBelieving
 ## Twitter: @DennieDeclercq
