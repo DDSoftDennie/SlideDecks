@@ -145,9 +145,9 @@
 
 ### 2017
 
-- 16/08/2017 - ** The Power of Inclusion** - NDC Sydney (Sydney, Australia)
+- 16/08/2017 - **The Power of Inclusion** - NDC Sydney (Sydney, Australia)
 
-- 16/08/2017 - ** Making Enabling Apps for Disabled People** - NDC Sydney (Sydney, Australia)
+- 16/08/2017 - **Making Enabling Apps for Disabled People** - NDC Sydney (Sydney, Australia)
 
 
 ## Dutch - SCHOL workshops
