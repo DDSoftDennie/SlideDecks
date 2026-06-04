@@ -24,6 +24,8 @@
 
 - 30/01/2025 - **Can Gen AI make the world Disability Inclusive?** - NDC London (London, UK)
 
+[Go to folder](2025/2025.md)
+
 
 ### 2024
 
