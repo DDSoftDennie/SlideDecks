@@ -10,6 +10,8 @@
 - 24/02/2026 - **Building for the (Digital) Illiterate Users** - AppDevCon (Amsterdam, Netherlands)
 [slides](2026/Building_For_The_Digital_Illiterate_AppDevCon.pdf)
 
+[Go to folder](2025/2025.md)
+
 ### 2025
 
 - 26/11/2025 - **Prompt Forward: Getting Started with Generative AI for Testers** - Agile Testing Days (Berlin, Germany)
@@ -23,6 +25,8 @@
 - 10/03/2025 - **Can Gen AI make the world Disability Inclusive?** - Azure AI Connect (Online)
 
 - 30/01/2025 - **Can Gen AI make the world Disability Inclusive?** - NDC London (London, UK)
+
+[Go to folder](2025/2025.md)
 
 
 ### 2024
@@ -39,7 +43,7 @@
 
 - 27/07/2024 - **Coding a disability inclusive world: 3 stories** - KCDC (Kansas City, USA)
 
-
+[Go to folder](2024/2024.md)
 
 ### 2023
 
@@ -68,6 +72,8 @@
 - 22/03/2023 - **Anxiety in Tech** - JavaLand (Brühl, Germany)
 
 - 27/01/2023 - **Exploring Patterns to Debug Your Life** - NDC London (London, UK)
+
+[Go to folder](2023/2023.md)
 
 ### 2022
 
@@ -99,8 +105,13 @@
 
 - 15/03/2022 - **Exploring Patterns to Debug Your Life** - JavaLand (Brühl, Germany)
 
+[Go to folder](2022/2022.md)
+
 
 ### 2021
+
+[Go to folder](2021/2021.md)
+
 
 ### 2020
 
@@ -109,6 +120,8 @@
 - 03/02/2020 - **Autism in Tech** - Swetugg (Stockholm, Sweden)
 
 - 24/01/2020 - **Moving from Azure IaaS to PaaS** - Azure Lowlands (Rotterdam, Netherlands)
+
+[Go to folder](2020/2020.md)
 
 ### 2019
 
@@ -138,16 +151,24 @@
 
 - 30/01/2019 - **Help! My Coworker is Autistic !? Lightning** - NDC London (London, UK)
 
+[Go to folder](2019/2019.md)
+
+
 
 ### 2018
 
 - 17/01/2018 - **The Power of Inclusion** - NDC London (London, UK)
+
+[Go to folder](2018/2018.md)
 
 ### 2017
 
 - 16/08/2017 - **The Power of Inclusion** - NDC Sydney (Sydney, Australia)
 
 - 16/08/2017 - **Making Enabling Apps for Disabled People** - NDC Sydney (Sydney, Australia)
+
+[Go to folder](2017/2017.md)
+
 
 
 test
@@ -160,3 +181,4 @@ test
 ### 2025
 
 
+test
