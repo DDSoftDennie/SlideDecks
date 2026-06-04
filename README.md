@@ -150,6 +150,9 @@
 - 16/08/2017 - **Making Enabling Apps for Disabled People** - NDC Sydney (Sydney, Australia)
 
 
+test
+
+
 ## Dutch - SCHOL workshops
 
 ### 2026
