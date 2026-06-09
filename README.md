@@ -10,7 +10,7 @@
 - 24/02/2026 - **Building for the (Digital) Illiterate Users** - AppDevCon (Amsterdam, Netherlands)
 [slides](2026/Building_For_The_Digital_Illiterate_AppDevCon.pdf)
 
-[Go to folder](2025/2025.md)
+[Go to folder](2026/2026.md)
 
 ### 2025
 
